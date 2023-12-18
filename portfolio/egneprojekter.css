@@ -1,0 +1,23 @@
+main section:first-child{
+    overflow-x: scroll; /* Hide horizontal scrollbar */
+    overflow-y: hidden; /* Add vertical scrollbar */
+
+    width: 50vw;
+    margin-bottom: 5vh;
+    overflow: auto;
+    white-space: nowrap;
+}
+main{
+    text-align: center;
+}
+body{
+    background-color: black;
+    background-image: none;
+}
+.pilen{
+
+}
+.pil{
+font-size: medium;
+    margin-bottom: 3px;
+}
